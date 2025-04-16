@@ -1,1 +1,1 @@
-# student-project-manager.
+# student-project-manager
